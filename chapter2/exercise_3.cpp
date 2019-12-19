@@ -1,5 +1,6 @@
-// Guess My Number 2.0
-// Player picks a number and the computer must guess what it is.
+// Write a new version of the Guess My Number program in which the player
+// and the computer switch roles. That is, the player picks a number and
+// the computer must guess what it is.
 
 #include <iostream>
 #include <cstdlib>
